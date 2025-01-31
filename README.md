@@ -87,10 +87,3 @@ CUDA_VISIBLE_DEVICES=0 python eval_vidore.py \
   --model dse \
   --adv_image_dir ./trump_dse_adv_images
 ```
-
-        new file:   .idea/dsr-poisoning.iml
-        new file:   .idea/inspectionProfiles/Project_Default.xml
-        new file:   .idea/inspectionProfiles/profiles_settings.xml
-        new file:   .idea/misc.xml
-        new file:   .idea/modules.xml
-        new file:   .idea/vcs.xml
