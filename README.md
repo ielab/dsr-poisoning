@@ -1,4 +1,5 @@
 # dsr-poisoning: Document Screenshot Retrievers Poisoning
+This is the official code repository for paper [Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks](https://arxiv.org/pdf/2501.16902), Shengyao Zhuang, Ekaterina Khramtsova, Xueguang Ma, Bevan Koopman, Jimmy Lin and Guido Zuccon.
 
 ## Installation
 

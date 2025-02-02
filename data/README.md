@@ -12,4 +12,4 @@ The queries in this directory are k-means clustered queries from the [Wiki-SS-NQ
 
 
 ## seed_queries
-The files in this directory are the seed target query groups that we used in the paper. We sample one query for each group to be the seed query and use ChatGPT to generate the other 9 similar queries.
+The files in this directory contain the seed target query groups used in the paper. We sampled one query from each group in the Wiki-SS-NQ test queries as the seed query and used ChatGPT to generate nine similar queries.
